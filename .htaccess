@@ -1,0 +1,33 @@
+
+Options +FollowSymlinks
+RewriteEngine On
+RewriteRule	^index$ page/index.php [L]
+
+Options +FollowSymlinks
+RewriteEngine On
+RewriteRule	^sitemap.xml$ sitemap.xml [L]
+
+
+# END Expire headers
+
+# END Cache-Control Headers
+
+# KILL THEM ETAGS
+Header unset ETag
+FileETag none
+
+# protect wpconfig.php
+<files wp-config.php>
+order allow,deny
+deny from all
+</files>
+
+# protect the htaccess file
+<files .htaccess>
+order allow,deny
+deny from all
+</files>
+
+# protection de la lecture des répertoires
+Options -Indexes
+
