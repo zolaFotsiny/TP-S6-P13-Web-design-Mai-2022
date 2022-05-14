@@ -9,7 +9,7 @@ RewriteRule	^index$ page/index.php [L]
 
 Options +FollowSymlinks
 RewriteEngine On
-RewriteRule	^sitemap.xml$ ../sitemap.xml [L]
+RewriteRule	^sitemap.xml$ ./sitemap.xml [L]
 
 <IfModule mod_expires.c>
  ExpiresActive On
