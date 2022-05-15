@@ -109,9 +109,7 @@
 												<p>Les principaux cause du <Strong>rechauffement climatique</Strong> </p>
                                                 
                                                 <a class="default-btn" href="about.html">En savoir plus</a>
-                                                <img class="classic" width="100%" src="img/new/icon.png">
-                                                 
-
+                                                <img class="classic" src="img/new/icon.png">
                                                 
                                             </div>
                                         </div>
@@ -119,7 +117,7 @@
                           </div>
                     <!-- Start Slider Content -->
                 </div>
-                <div class="single-slide item" style=" background-repeat: no-repeat;background-size: cover; background-image: url(midinfo-carbone-cheminee-pollution-changement-climatique.jpg)">
+                <div class="single-slide item"  style=" background-repeat: no-repeat;background-size: cover; background-image: url(midinfo-carbone-cheminee-pollution-changement-climatique.jpg)">
                         <div class="slider-content-area">  
                                 <div class="row">
                                         <div class="slide-content-wrapper text-center">
@@ -133,7 +131,7 @@
                                                 <p>Les principaux cause du <Strong>rechauffement climatique</Strong> </p>
                                                 
                                                 <a class="default-btn" href="about.html">En savoir plus</a>
-                                                <img class="classic" width="100%" src="img/new/icon.png">
+                                                <img class="classic" src="img/new/icon.png">
                                                 
                                             </div>
                                         </div>
@@ -190,7 +188,7 @@
                             </ul>
 
                                 <center>
-                                <img  width="100%"  alt="réchauffement climatique schéma" title="Schéma du réchauffement climatique" typeof="foaf:Image" src="img/dioxyde de carbone-rechauffementclimatique.jpg" data-was-processed="true">
+                                <img  alt="réchauffement climatique schéma" title="Schéma du réchauffement climatique" typeof="foaf:Image" src="img/dioxyde de carbone-rechauffementclimatique.jpg" data-was-processed="true">
                                 </center>
 
                         </div>  
