@@ -1,11 +1,11 @@
 
 Options +FollowSymlinks
 RewriteEngine On
-RewriteRule	^rechauffement-climatique-actu$ page/index.php [L]
+RewriteRule	^rechauffement-climatique-cause$ index.php [L]
 
 Options +FollowSymlinks
 RewriteEngine On
-RewriteRule	^index$ page/index.php [L]
+RewriteRule	^index$ index.php [L]
 
 Options +FollowSymlinks
 RewriteEngine On
