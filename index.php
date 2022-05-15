@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-        <title>Rechauffement climatique - Actualite  Cause Concequence  statistique et Solution </title>
+        <title>Rechauffement climatique | Definition-Causes-Impacts</title>
         
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,8 +14,8 @@
         <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap&subset=latin-ext" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet"> 
         <!-- Place favicon.ico in the root directory -->
-        <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
-        <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+        <link rel="icon" type="image/png" href="img/favicon-32x32.png" sizes="32x32" />
+        <link rel="icon" type="image/png" href="img/favicon-16x16.png" sizes="16x16" />
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/owl.carousel.min.css">
         <link rel="stylesheet" href="css/font-awesome.min.css">
@@ -27,11 +27,7 @@
 
     </head>
     <body>
-        <!--[if lt IE 8]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-
-        <!-- Header Area Start -->
+       
 		<header class="top">
                   <div class="fixedArea">
 					<div class="row">
@@ -109,9 +105,9 @@
                                                 <br>
                                                 <br>
                                                 <br>
-                                                <h3>Actualités </h3>
-                                                <h2>Rechauffement Climatique</h2>
-                                                <p>Les principaux cause de la <Strong>rechauffement climatique</Strong> </p>
+                                                <h3>Definition-Causes-Impacts </h3>
+                                                <h1>Rechauffement Climatique</h1>
+												<p>Les principaux cause du <Strong>rechauffement climatique</Strong> </p>
                                                 
                                                 <a class="default-btn" href="about.html">En savoir plus</a>
                                                 <img class="classic" src="img/new/icon.png">
@@ -131,9 +127,9 @@
                                                 <br>
                                                 <br>
                                                 <br>
-                                                <h3>Actualités </h3>
-                                                <h2>Rechauffement Climatique</h2>
-                                                <p>Les principaux cause de la <Strong>rechauffement climatique</Strong> </p>
+                                                <h3>Definition-Cause-Impacts </h3>
+                                                <h1 >Rechauffement Climatique</h1>
+                                                <p>Les principaux cause du <Strong>rechauffement climatique</Strong> </p>
                                                 
                                                 <a class="default-btn" href="about.html">En savoir plus</a>
                                                 <img class="classic" src="img/new/icon.png">
@@ -193,71 +189,18 @@
                             </ul>
 
                                 <center>
-                                <img  alt="réchauffement climatique schéma" title="Schéma du réchauffement climatique" typeof="foaf:Image" src="img/effetdeserre-750.jpg" data-was-processed="true">
+                                <img  alt="réchauffement climatique schéma" title="Schéma du réchauffement climatique" typeof="foaf:Image" src="img/dioxyde de carbone-rechauffementclimatique.jpg" data-was-processed="true">
                                 </center>
 
                         </div>  
                     </div>
 
                 </div>
-                <div class="row shapes">
-                    <div class="col-md-4 col-sm-4 col-xs-12">
-                        <div class="row">
-                            <div class="col-md-12 minHeightProp">
-                                <img class="imgback" src="img/shape/shape1.png">
-                            </div>
-                            <div class="col-md-12">
-                                <div class="text-center">
-                                    <span>Serve You Since 1988</span>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>                                
-                                    </div> 
-                            </div> 
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12">
-                        <div class="row">
-                            <div class="col-md-12 minHeightProp">
-                                <img class="imgback" src="img/shape/shape2.png">
-                            </div>
-                            <div class="col-md-12">
-                                <div class="text-center">
-                                    <span>Serve You Since 1988</span>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>
-                                </div> 
-                            </div> 
-                        </div> 
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12">
-                        <div class="row">
-                            <div class="col-md-12 minHeightProp">
-                                <img class="imgback" src="img/shape/shape3.png">
-                            </div>
-                            <div class="col-md-12">
-                                <div class="text-center">
-                                    <span>Serve You Since 1988</span>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue. </p>
-                                </div> 
-                            </div> 
-                        </div>  
-                    </div>
-                </div>
+               
             </div>
         </section>
         <!-- Section2 End -->
-        <!-- Banner Start -->
-
-        <div class="container">
-            <div class="banner"
-            style="background-image: url('img/new/1170x268.png');">
-                <div class="content text-center">
-                    <span>NEW CAKE!!! GET IT FOR $12/PAX (LIMITED)</span>
-                    <h2>Strawberry Pancake</h2>
-                    <h3>SHOP NOW</h3>
-                    <img class="classic" src="img/new/icon.png">
-                </div>
-            </div>
-        </div>
-        <!-- Banner End -->
+        
         <!-- Section3 Start -->
         <section id="section3">
             <div class="container">
@@ -323,6 +266,7 @@
                             </div>
                         </div>
                     </div>
+					
                 </div>
             </div>
         </section>
