@@ -119,7 +119,7 @@ input:focus:-ms-input-placeholder { color:transparent; }
 textarea:focus::-webkit-input-placeholder { color:transparent; }
 textarea:focus:-moz-placeholder { color:transparent; }
 textarea:focus::-moz-placeholder { color:transparent; }
-textarea:focus:-ms-input-placeholder { color:transparent; }
+
 
 
 
@@ -324,57 +324,6 @@ section#section1 .maintext p {
 
 }
 
-
-
-
-
-
-
-/*
-* ==========================================
-* SECTION1 END
-* ==========================================
-*/
-
-section#section1 {
-  padding-top: 65px;
-  padding-bottom: 150px;
-}
-
-section#section1 .maintext span{
-  margin-top: 90px;
-  font-weight: 800;
-  color: #f9b000;
-  line-height: 1.7;
-  letter-spacing: 6px;
-  text-transform: uppercase;
-
-}
-
-
-
-section#section1 .maintext h2 {
-  font-size: 30px;
-  font-family: 'Righteous';
-  color: rgb(68, 68, 68);
-  line-height: 1;
-  /* text-align: center; */
-  margin-top: 30px;
-  margin-bottom: 50px;
-}
-section#section1 .maintext p {
-
-  font-family: "Roboto";
-  font-size: 14px;
-  line-height: 1.7;
-  color: #666666;
-  margin: 0px;
-  padding-left: 10px;
-  padding-right: 10px;
-
-
-}
-
 section#section1 .shapes span{
   font-size: 18px;
   font-family: "Roboto";
@@ -394,15 +343,21 @@ section#section1 .shapes p{
 }
 
 
+
+
+/*
+* ==========================================
+* SECTION1 END
+* ==========================================
+*/
+
+
+
 /*
 * ==========================================
 * SECTION2 START 
 * ==========================================
 */
-section#section2 {
-  padding-top: 65px;
-  padding-bottom: 150px;
-}
 
 section#section2 .maintext span{
   margin-top: 90px;

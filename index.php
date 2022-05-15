@@ -1,4 +1,4 @@
-<!doctype html>
+<!octype html>
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -23,7 +23,7 @@
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/animate.css">
         <link rel="stylesheet" href="css/responsive.css">
-        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+     
 
     </head>
     <body>
@@ -48,7 +48,7 @@
                                                                 <!-- <a style="padding-top:0px;" class="navbar-brand navBrandText text-uppercase font-weight-bold" href="index.html"><img src="img/logo/cemrebakerylogo.png" alt="restaurant" /></a> -->
                                                             </div>
                                                             <div class="col-md-9 col-sm-9 col-xs-9">
-                                                                <h1>IDEA</h1>
+                                                               
                                                                 <!-- <a href="index.html"><img class="img-responsive logo" src="img/logo/cemrebakerytextlogolight.png" alt="restaurant" /></a> -->
                                                             </div>
                                                         </div>
@@ -76,7 +76,7 @@
                                                     <li class="nav-item"><a href="#section4" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Testimonial</a></li>
                                                     <li class="nav-item"><a href="#section5" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Blog</a></li>
                                                     <li class="nav-item"><a href="#section6" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Contact</a></li>
-                                                    <li class="nav-item"><a href="#section7" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Address</a></li>
+                                                  
 
 
                                                 </ul>
@@ -344,18 +344,19 @@
        
         <!-- Footer Start -->
         <footer class="footer-area">
-
+              
             <div class="footer-bottom text-center">
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12">
-                            <p>Copyright © <a href="https://cemrethemes.com" target="_blank">Rechauffement-Climatique</a> 2022. All Right Reserved By Rechauffement-Climatique.</p>
+                            <p>Copyright © <a href="https://cemrethemes.com" target="_blank"><Strong>Rechauffement-Climatique<Strong></a>2022 .<br> All Right Reserved By ETU1262.</p>
                         </div> 
                     </div>
                 </div>    
             </div>
         </footer>
         <!-- Footer End -->
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
         <script src="js/vendor/jquery-1.12.0.min.js"></script>
         <script src="js/jquery-easing/jquery.easing.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
@@ -364,8 +365,6 @@
         <script src="js/owl.carousel.min.js"></script>
         <script src="js/jquery.nicescroll.min.js"></script>
         <script src="js/main.js"></script>
-        <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDyIMWhs-crjT0yhctbRjfJFq75FlEhSzE&callback=initMap">
-        </script>
+
     </body>
 </html>
