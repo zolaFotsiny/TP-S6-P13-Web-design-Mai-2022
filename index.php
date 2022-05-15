@@ -73,7 +73,6 @@
                                                     <li class="nav-item"><a href="#section0" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Home <span class="sr-only">(current)</span></a></li>
                                                     <li class="nav-item"><a href="#section1" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Définitions</a></li>
                                                     <li class="nav-item"><a href="#section2" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Causes</a></li>
-                                                    <li class="nav-item"><a href="#section3" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Portfolio</a></li>
                                                     <li class="nav-item"><a href="#section4" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Testimonial</a></li>
                                                     <li class="nav-item"><a href="#section5" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Blog</a></li>
                                                     <li class="nav-item"><a href="#section6" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Contact</a></li>
@@ -201,76 +200,7 @@
         </section>
         <!-- Section2 End -->
         
-        <!-- Section3 Start -->
-        <section id="section3">
-            <div class="container">
-
-                <div class="row">
-                     <div class="col-xs-12">
-                        <div class="section-title text-center">
-                            <h3>Premium Quality</h3>
-                            <h2>Cemre Bakery Fresh Cakes</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                <div class="container">
-                        <div class="col-md-12 noPadding">
-                            <div id="news-slider" class="news-slider owl-theme owl-carousel">
-                                <div class="post-slide">
-                                    <div class="post-img">
-                                        <div class="post-abs"><p>Progresso İtalian Style</p></div>
-                                        <img src="img/new/productnew.png" alt="">
-                                    </div>
-                                    <h3 class="post-title"><a href="#">Progresso İtalian Style</a></h3>
-                                    <p class="post-description">
-                                       12$
-                                    </p>
-                                </div>
-                 
-                                <div class="post-slide">
-                                    <div class="post-img">
-                                        <div class="post-abs"><p>Progresso İtalian Style</p></div>
-                                        <img src="img/new/productnew.png" alt="">
-
-                                    </div>
-                                    <h3 class="post-title"><a href="#">Progresso İtalian Style</a></h3>
-                                    <p class="post-description">
-                                       12$
-                                    </p>
-                                </div>
-                                
-                                <div class="post-slide">
-                                    <div class="post-img">
-                                        <div class="post-abs"><p>Progresso İtalian Style</p></div>
-                                        <img src="img/new/productnew.png" alt="">
-
-                                    </div>
-                                    <h3 class="post-title"><a href="#">Progresso İtalian Style</a></h3>
-                                    <p class="post-description">
-                                       12$
-                                    </p>
-                                </div>
-                                
-                                <div class="post-slide">
-                                    <div class="post-img">
-                                        <div class="post-abs"><p>Progresso İtalian Style</p></div>
-                                        <img src="img/new/productnew.png" alt="">
-
-                                    </div>
-                                    <h3 class="post-title"><a href="#">Progresso İtalian Style</a></h3>
-                                    <p class="post-description">
-                                       12$
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					
-                </div>
-            </div>
-        </section>
-        <!-- Section3 End -->
+        
         <!-- Testimonial Area Start -->
         <section id="section4" class="parallax-window" data-parallax="scroll" data-image-src="img/slider/1900x1000.png">
             <h3>What We Say</h3>
@@ -411,56 +341,7 @@
                 </div>
         </section>
         <!-- Contact End -->
-        <!-- Address Section Start -->
-        <section id="section7" class="row address parallax-window" data-parallax="scroll" data-image-src="img/slider/1900x1000.png">
-            <div class="col-md-12">
-                    <div class="row">
-
-                        <div class="col-md-5 col-md-offset-1 addess-description">
-                            <span>CemreBakery Location</span>
-                            <h2>CemreBakery Address</h2>
-                            <p>I must explain to you how all this mistaken idea of denouncing pleure and praising pain was born.</p>
-                            <ul>
-                                <li class="address-section">
-                                    <div class="row">
-                                        <div class="col-md-2 col-sm-2 col-xs-2">
-                                            <i class="fa fa-address-card"></i>
-                                        </div>
-                                        <div class="col-md-10 col-sm-10 col-xs-10 lineHeight">
-                                            Primary:Lorem Ipsum Dolar<br>Second:Lorem Ipsum Dolar
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="address-section">
-                                    <div class="row">
-                                        <div class="col-md-2 col-sm-2 col-xs-2">
-                                            <i class="fa fa-phone"></i>                                       
-                                         </div>
-                                         <div class="col-md-10 col-sm-10 col-xs-10 lineHeight">
-                                            Primary:Lorem Ipsum Dolar<br>Second:Lorem Ipsum Dolar
-                                        </div>
-                                    </div>
-                                    </li>
-                                <li class="address-section">
-                                    <div class="row">
-                                        <div class="col-md-2 col-sm-2 col-xs-2">
-                                            <i class="fa fa-envelope"></i>                                       
-                                        </div>
-                                        <div class="col-md-10 col-sm-10 col-xs-10 lineHeight">
-                                            Primary:Lorem Ipsum Dolar<br>Second:Lorem Ipsum Dolar
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-md-6 addess-map">
-                            <div id="map"></div>
-                        </div>
-            </div>
-        </div>
-        </section>
-
-        <!-- Adress Section End -->
+       
         <!-- Footer Start -->
         <footer class="footer-area">
             <div class="container main-footer">
@@ -469,13 +350,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="single-widget pr-60">
                                 <div class="footer-logo pb-25">
-                                    <div class="col-md-4 noPadding text-center">
-                                        <a class="" href="index.html"><img class="img-responsive" src="img/logo/cemrebakerylogo.png" alt="restorant" /></a>
-                                    </div>
-                                    <div class="col-md-8 noPadding logo-text">
-                                        <a class="" href="index.html"><img class="img-responsive" src="img/logo/cemrebakerytextlogo.png" alt="restorant" /></a>
-                                        <p class="colorfullText">Fresh Bakery Store</p>
-                                    </div>        
+                                   
                                 </div>
                                 <p>I must explain to you how all this mistaken idea of denoung pleure and praising pain was born and give you a coete account of the system. </p>
                                 <div class="footer-social">
