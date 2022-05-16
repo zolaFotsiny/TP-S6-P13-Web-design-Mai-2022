@@ -115,7 +115,7 @@ https://templatemo.com/tm-538-digital-trend
 
                          <div class="about-image" data-aos="fade-up" data-aos-delay="200">
 <br><br>
-                          <img src="images/office.png" class="img-fluid" alt="office">
+                          <img src="images/office.png" width="100%"  height="80%"  class="img-fluid" alt="office">
                         </div>
                     </div>
 
@@ -227,7 +227,7 @@ https://templatemo.com/tm-538-digital-trend
                     <div class="col-lg-6 col-md-5 col-12">
                         <div class="contact-image" data-aos="fade-up">
 
-                          <img src="images/female-avatar.png" width="80%"  height="100%" class="img-fluid" alt="website">
+                          <img src="images/female-avatar.png" width="80%"  height="80%" class="img-fluid" alt="website">
                         </div>
                     </div>
 
