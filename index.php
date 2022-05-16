@@ -1,178 +1,317 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Business Oriented CSS Template</title>
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" /> <!-- https://fonts.google.com/ -->
-    <link href="css/bootstrap.min.css" rel="stylesheet" /> <!-- https://getbootstrap.com/ -->
-    <link href="fontawesome/css/all.min.css" rel="stylesheet" /> <!-- https://fontawesome.com/ -->
-    <link href="css/templatemo-business-oriented.css" rel="stylesheet" />
-</head>
+
+     <title>Digital Trend HTML Template</title>
 <!--
 
-TemplateMo 549 Business Oriented
+DIGITAL TREND
 
-https://templatemo.com/tm-549-business-oriented
+https://templatemo.com/tm-538-digital-trend
 
 -->
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+     <meta name="description" content="">
+     <meta name="keywords" content="">
+     <meta name="author" content="">
+     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+     <link rel="stylesheet" href="css/bootstrap.min.css">
+     <link rel="stylesheet" href="css/font-awesome.min.css">
+     <link rel="stylesheet" href="css/aos.css">
+     <link rel="stylesheet" href="css/owl.carousel.min.css">
+     <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+     <!-- MAIN CSS -->
+     <link rel="stylesheet" href="css/templatemo-digital-trend.css">
+
+</head>
 <body>
-    <div id="parallax-1" class="parallax-window" data-parallax="scroll" data-image-src="img/biz-oriented-header.jpg">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-12">
-                    <div class="tm-logo">
-                        <i class="fas fa-industry fa-5x mr-5"></i>
-                        <span class="text-uppercase tm-logo-text">Business Oriented</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="tm-nav-container-outer">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-12">
-                    <nav class="navbar navbar-expand-lg" id="tm-main-nav">
-                        <button class="navbar-toggler toggler-example" type="button" data-toggle="collapse" data-target="#navbar-nav" 
-                            aria-controls="navbar-nav" aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="dark-blue-text"><i class="fas fa-bars"></i></span>
-                        </button>
-                        <div class="collapse navbar-collapse tm-nav" id="navbar-nav">
-                            <ul class="navbar-nav ml-auto">
-                                <li class="nav-item active">
-                                    <a class="nav-link tm-nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link tm-nav-link" href="services.html">Services</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link tm-nav-link" href="about.html">About</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link tm-nav-link" href="contact.html">Contact</a>
-                                </li>
-                            </ul>                            
-                        </div>                        
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </div>
 
-    <div class="container-fluid mt-7">
-        <div class="row mb-6">
-            <section class="col-lg-6 mb-lg-0 mb-5">
-                <div class="tm-intro">
-                    <h3 class="tm-title-gray mb-4">What is a Business Oriented Website?</h3>
-                    <hr class="mb-5 tm-hr">
-                    <p class="mb-5">Header is a parallax background just like in <a href="https://templatemo.com/tm-547-real-dynamic" target="_blank">Real Dynamic design</a> on TemplateMo. Business Oriented HTML Template is specifically designed for your corporate website.</p>
-                    <p class="mb-5">You can download and use this template for your commercial purpose. Please do not re-distribute the template ZIP file on any template collection website.</p>
-                    <img src="img/biz-oriented-1.jpg" alt="Company Background Image" class="img-fluid tm-mb-3">
-                </div>
-            </section>
-            <section class="col-lg-6">
-                <h3 class="tm-title-gray mb-4">New Focused Strategies</h3>
-                <hr class="mb-5 tm-hr">
-                <div class="tm-strategy-box mb-5">
-                    <img src="img/strategy-1.jpg" alt="Image" class="img-fluid tm-strategy-img">
-                    <div>
-                        <h4 class="tm-text-primary">Maecenas molestie varius ipsum</h4>
-                        <p class="tm-strategy-text">Quisque consectetur ipsum justo, sed posuere massa pretium nec. In scelerisque, odio et maximus feugiat, nisl libero porta turpis, quis imperdiet odio.</p>
-                    </div>
-                </div>
-                <div class="tm-strategy-box mb-5">
-                    <img src="img/strategy-2.jpg" alt="Image" class="img-fluid tm-strategy-img">
-                    <div>
-                        <h4 class="tm-text-primary">Etiam consequat placerat convallis</h4>
-                        <p class="tm-strategy-text">Fusce non diam vel diam egestas accumsan quis aliquam metus. Nulla porta ullamcorper mauris maximus feugiat. Donec ac tincidunt dui.</p>
-                    </div>
-                </div>
-                <div class="tm-strategy-box mb-5">
-                    <img src="img/strategy-3.jpg" alt="Image" class="img-fluid tm-strategy-img">
-                    <div>
-                        <h4 class="tm-text-primary">Aenean varius velit eu ligula</h4>
-                        <p class="tm-strategy-text">Suspendisse gravida, ipsum a gravida euismod, metus enim hendrerit ante, vel hendrerit sapien sem non nisl. Maecenas tempus risus ipsum.</p>
-                    </div>
-                </div>
-            </section>
-        </div>
-        <!-- Services -->
-        <div class="row mb-7">
-            <div class="col-lg-4 col-md-6">
-                <div class="tm-bg-gray tm-box">
-                    <div class="text-center mb-3">
-                        <i class="fas fa-cloud-sun fa-5x p-5"></i>
-                    </div>
-                    <h4 class="tm-text-primary tm-h3 mb-5">Suspendisse at nunc leo</h4>
-                    <p>Phasellus malesuada aliquam arcu, et ultricies metus scelerisque id. Curabitur finibus ornare blandit. Donec a luctus nulla. Vivamus ac felis sapien.</p>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="tm-bg-gray tm-box">
-                    <div class="text-center mb-3">
-                        <i class="fas fa-spa fa-5x p-5"></i>
-                    </div>
-                    <h4 class="tm-text-primary tm-h3 mb-5">Etiam viverra elit vel efficitur</h4>
-                    <p>Nunc ultrices imperdiet orci, a ultrices orci luctus vel. Etiam consequat placerat convallis. Donec consequat consectetur est, eget pretium nisl.</p>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <img src="img/biz-oriented-2.jpg" alt="Image" class="img-fluid">
-                <div class="tm-box tm-box-s">
-                    <p class="tm-mb-5">Suspendisse gravida, ipsum a gravida euismod, metus enim hendrerit ante, vel hendrerit sapien sem non nisl. Maecenas tempus risus ipsum.</p>
-                </div>
-            </div>
-        </div>
-    </div>
+     <!-- MENU BAR -->
+    <nav class="navbar navbar-expand-lg">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">
+              <i class="fa fa-line-chart"></i>
+              Digital Trend
+            </a>
 
-    <div id="parallax-2" class="parallax-window parallax-window-2" data-parallax="scroll"
-        data-image-src="img/biz-oriented-footer.jpg">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-12">
-                    <div class="tm-overlay tm-bg-white">
-                        <h4 class="tm-text-primary mb-5">Parallax Background Section</h4>
-                        <p class="mb-5">Suspendisse gravida, ipsum a gravida euismod, metus enim hendrerit ante, vel hendrerit sapien sem non nisl. Maecenas tempus risus ipsum.</p>
-                        <a href="contact.html" class="btn btn-primary">Contact Us</a>
-                    </div>
-                </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a href="#about" class="nav-link smoothScroll">Studio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#project" class="nav-link smoothScroll">Our Works</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="blog.html" class="nav-link">Blog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="contact.html" class="nav-link contact">Contact</a>
+                    </li>
+                </ul>
             </div>
         </div>
-    </div>
+    </nav>
 
-    <footer class="container-fluid">
+
+     <!-- HERO -->
+     <section class="hero hero-bg d-flex justify-content-center align-items-center">
+               <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-6 col-md-10 col-12 d-flex flex-column justify-content-center align-items-center">
+                              <div class="hero-text">
+
+                                   <h1 class="text-white" data-aos="fade-up">We are ready for your digital marketing</h1>
+
+                                   <a href="contact.html" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">Let us discuss together!</a>
+
+                                   <strong class="d-block py-3 pl-5 text-white" data-aos="fade-up" data-aos-delay="200"><i class="fa fa-phone mr-2"></i> +99 080 070 4224</strong>
+                              </div>
+                        </div>
+
+                        <div class="col-lg-6 col-12">
+                          <div class="hero-image" data-aos="fade-up" data-aos-delay="300">
+
+                            <img src="images/working-girl.png" class="img-fluid" alt="working girl">
+                          </div>
+                        </div>
+
+                    </div>
+               </div>
+     </section>
+
+
+     <!-- ABOUT -->
+     <section class="about section-padding pb-0" id="about">
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-lg-7 mx-auto col-md-10 col-12">
+                         <div class="about-info">
+
+                              <h2 class="mb-4" data-aos="fade-up">the best <strong>Digital Marketing agency</strong> in Rio de Janeiro</h2>
+
+                              <p class="mb-0" data-aos="fade-up">Total 5 HTML pages are included in this template from TemplateMo website. Please check 2 <a href="blog.html">blog</a> pages, <a href="project-detail.html">project</a> page, and <a href="contact.html">contact</a> page. 
+                              <br><br>You are <strong>allowed</strong> to use this template for commercial or non-commercial purpose. You are NOT allowed to redistribute the template ZIP file on template collection websites.</p>
+                         </div>
+
+                         <div class="about-image" data-aos="fade-up" data-aos-delay="200">
+
+                          <img src="images/office.png" class="img-fluid" alt="office">
+                        </div>
+                    </div>
+
+               </div>
+          </div>
+     </section>
+
+
+     <!-- PROJECT -->
+     <section class="project section-padding" id="project">
+          <div class="container-fluid">
+               <div class="row">
+
+                    <div class="col-lg-12 col-12">
+
+                        <h2 class="mb-5 text-center" data-aos="fade-up">
+                            Please take a look through our
+                            <strong>featured Digital Trends</strong>
+                        </h2>
+
+                         <div class="owl-carousel owl-theme" id="project-slide">
+                              <div class="item project-wrapper" data-aos="fade-up" data-aos-delay="100">
+                                   <img src="images/project/project-image01.jpg" class="img-fluid" alt="project image">
+
+                                   <div class="project-info">
+                                        <small>Marketing</small>
+
+                                        <h3>
+                                             <a href="project-detail.html">
+                                                  <span>Sweet Go Agency</span>
+                                                  <i class="fa fa-angle-right project-icon"></i>
+                                             </a>
+                                        </h3>
+                                   </div>
+                              </div>
+
+                              <div class="item project-wrapper" data-aos="fade-up">
+                                   <img src="images/project/project-image02.jpg" class="img-fluid" alt="project image">
+
+                                   <div class="project-info">
+                                        <small>Website</small>
+
+                                        <h3>
+                                             <a href="project-detail.html">
+                                                  <span>Smart Ladies</span>
+                                                  <i class="fa fa-angle-right project-icon"></i>
+                                             </a>
+                                        </h3>
+                                   </div>
+                              </div>
+
+                              <div class="item project-wrapper" data-aos="fade-up">
+                                   <img src="images/project/project-image03.jpg" class="img-fluid" alt="project image">
+
+                                   <div class="project-info">
+                                        <small>Branding</small>
+
+                                        <h3>
+                                             <a href="project-detail.html">
+                                                  <span>Shoes factory</span>
+                                                  <i class="fa fa-angle-right project-icon"></i>
+                                             </a>
+                                        </h3>
+                                   </div>
+                              </div>
+
+                              <div class="item project-wrapper" data-aos="fade-up">
+                                   <img src="images/project/project-image04.jpg" class="img-fluid" alt="project image">
+
+                                   <div class="project-info">
+                                        <small>Social Media</small>
+
+                                        <h3>
+                                             <a href="project-detail.html">
+                                                  <span>Race Bicycle</span>
+                                                  <i class="fa fa-angle-right project-icon"></i>
+                                             </a>
+                                        </h3>
+                                   </div>
+                              </div>
+
+                              <div class="item project-wrapper" data-aos="fade-up">
+                                   <img src="images/project/project-image05.jpg" class="img-fluid" alt="project image">
+
+                                   <div class="project-info">
+                                        <small>Video</small>
+
+                                        <h3>
+                                             <a href="project-detail.html">
+                                                  <span>Ultimate HealthCare</span>
+                                                  <i class="fa fa-angle-right project-icon"></i>
+                                             </a>
+                                        </h3>
+                                   </div>
+                              </div>
+                         </div>
+                    </div>
+
+               </div>
+          </div>
+     </section>
+
+
+     <!-- TESTIMONIAL -->
+     <section class="testimonial section-padding">
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-lg-6 col-md-5 col-12">
+                        <div class="contact-image" data-aos="fade-up">
+
+                          <img src="images/female-avatar.png" class="img-fluid" alt="website">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-7 col-12">
+                      <h4 class="my-5 pt-3" data-aos="fade-up" data-aos-delay="100">Client Testimonials</h4>
+
+                      <div class="quote" data-aos="fade-up" data-aos-delay="200"></div>
+
+                      <h2 class="mb-4" data-aos="fade-up" data-aos-delay="300">Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo.</h2>
+
+                      <p data-aos="fade-up" data-aos-delay="400">
+                        <strong>Mary Zoe</strong>
+
+                        <span class="mx-1">/</span>
+
+                        <small>Digital Agency (CEO)</small>
+                      </p>
+                    </div>
+
+               </div>
+          </div>
+     </section>
+
+
+    <footer class="site-footer">
+      <div class="container">
         <div class="row">
-            <p class="col-lg-9 col-md-8 mb-5 mb-md-0">
-                Copyright &copy; 2020 <span class="tm-text-primary">Business Oriented</span>
-                - designed by <a rel="nofollow" target="_parent" href="https://templatemo.com" class="tm-link-primary">TemplateMo</a>
+
+          <div class="col-lg-5 mx-lg-auto col-md-8 col-10">
+            <h1 class="text-white" data-aos="fade-up" data-aos-delay="100">We make creative <strong>brands</strong> only.</h1>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up" data-aos-delay="200">
+            <h4 class="my-4">Contact Info</h4>
+
+            <p class="mb-1">
+              <i class="fa fa-phone mr-2 footer-icon"></i> 
+              +99 080 070 4224
             </p>
-            <div class="col-lg-3 col-md-4 text-right">
-                <a rel="nofollow" target="_blank" href="https://fb.com/templatemo" class="tm-social-link">
-                    <i class="fab fa-facebook fa-2x tm-social-icon"></i>
-                </a>
-                <a href="https://twitter.com" class="tm-social-link">
-                    <i class="fab fa-twitter fa-2x tm-social-icon"></i>
-                </a>
-                <a href="https://linkedin.com" class="tm-social-link">
-                    <i class="fab fa-linkedin fa-2x tm-social-icon"></i>
-                </a>
-            </div>
+
+            <p>
+              <a href="#">
+                <i class="fa fa-envelope mr-2 footer-icon"></i>
+                hello@company.com
+              </a>
+            </p>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up" data-aos-delay="300">
+            <h4 class="my-4">Our Studio</h4>
+
+            <p class="mb-1">
+              <i class="fa fa-home mr-2 footer-icon"></i> 
+              Av. Lúcio Costa - Barra da Tijuca, Rio de Janeiro - RJ, Brazil
+            </p>
+          </div>
+
+          <div class="col-lg-4 mx-lg-auto text-center col-md-8 col-12" data-aos="fade-up" data-aos-delay="400">
+            <p class="copyright-text">Copyright &copy; 2020 Your Company
+            <br>
+            <a rel="nofollow noopener" href="https://templatemo.com">Design: TemplateMo</a></p>
+          </div>
+
+          <div class="col-lg-4 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="500">
+            
+            <ul class="footer-link">
+              <li><a href="#">Stories</a></li>
+              <li><a href="#">Work with us</a></li>
+              <li><a href="#">Privacy</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="600">
+            <ul class="social-icon">
+              <li><a href="#" class="fa fa-instagram"></a></li>
+              <li><a href="#" class="fa fa-twitter"></a></li>
+              <li><a href="#" class="fa fa-dribbble"></a></li>
+              <li><a href="#" class="fa fa-behance"></a></li>
+            </ul>
+          </div>
+
         </div>
+      </div>
     </footer>
 
-    <script src="js/jquery-3.4.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/parallax.min.js"></script> <!-- https://pixelcog.github.io/parallax.js/ -->
-    <script src="js/tooplate-script.js"></script>
-    <script>
-        $(document).ready(function () {
-            $('#parallax-1').parallax({ imageSrc: 'img/biz-oriented-header.jpg' });
-            $('#parallax-2').parallax({ imageSrc: 'img/biz-oriented-footer.jpg' });
-        });
-    </script>
-</body>
 
+     <!-- SCRIPTS -->
+     <script src="js/jquery.min.js"></script>
+     <script src="js/bootstrap.min.js"></script>
+     <script src="js/aos.js"></script>
+     <script src="js/owl.carousel.min.js"></script>
+     <script src="js/smoothscroll.js"></script>
+     <script src="js/custom.js"></script>
+
+</body>
 </html>
