@@ -1,28 +1,29 @@
 <?php
     require'dbConnect.php';
 
-
-
-    function Cause(){
-        $sql = "select * from cause";
+	function Cause(){
+		$con = dbconnect();
+		$sql = "select * from cause";
 		
-		$val=array();
-		$basealaina= mysqli_query(dbconnect(), $sql);
-		while ($temp = mysqli_fetch_array($basealaina)){
-			$val[]	 = $temp;
-		}	
-	    return $val;
+		$result = $con->query($sql);
+        $ret = array();
+        
+		while($huhu = $result->fetch())
+            $ret[] = $huhu;
+        return $ret;
     }
 
 	function Actualite(){
+		$con = dbconnect();
         $sql = "select * from actualite";
 		
-		$val=array();
-		$basealaina= mysqli_query(dbconnect(), $sql);
-		while ($temp = mysqli_fetch_array($basealaina)){
-			$val[]	 = $temp;
-		}	
-	    return $val;
+
+		$result = $con->query($sql);
+        $ret = array();
+        
+		while($huhu = $result->fetch())
+            $ret[] = $huhu;
+        return $ret;
     }
 
    

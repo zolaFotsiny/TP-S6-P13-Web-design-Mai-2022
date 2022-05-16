@@ -3,14 +3,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
      <title>rechauffement climatique |  causes  </title>
 <!--
-
 DIGITAL TREND
-
 https://templatemo.com/tm-538-digital-trend
-
 -->
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
@@ -18,25 +14,20 @@ https://templatemo.com/tm-538-digital-trend
      <meta name="keywords" content="rechauffement climatique">
      <meta name="author" content="">
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
      <link rel="stylesheet" href="css/bootstrap.min.css">
      <link rel="stylesheet" href="css/font-awesome.min.css">
      <link rel="stylesheet" href="css/aos.css">
      <link rel="stylesheet" href="css/owl.carousel.min.css">
      <link rel="stylesheet" href="css/owl.theme.default.min.css">
-
      <!-- MAIN CSS -->
      <link rel="stylesheet" href="css/templatemo-digital-trend.css">
-
 </head>
 <body>
 <?php 
-require ("utils/function.php");
-$Actualite=Actualite();
-var_dump($Actualite) ;
+     require ("utils/function.php");
+     $Actualite=Actualite();
+     echo count($Actualite);
 ?>
-
-
      <!-- MENU BAR -->
     <nav class="navbar navbar-expand-lg">
         <div class="container">
@@ -47,9 +38,6 @@ var_dump($Actualite) ;
                 aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-
-
-
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
@@ -78,27 +66,19 @@ var_dump($Actualite) ;
 
                         <div class="col-lg-6 col-md-10 col-12 d-flex flex-column justify-content-center align-items-center">
                               <div class="hero-text">
-
                                    <h1 class="text-white" data-aos="fade-up">Réchauffement Climatique</h1>
                                    <p class="d-block  text-white" data-aos="fade-up" data-aos-delay="200">Les principaux cause du <strong >réchauffement climatique</strong></p>
                                    <a href="contact.html" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">En savoir plus</a>
                               </div>
-
                         </div>
-
                         <div class="col-lg-6 col-12">
                           <div class="hero-image" data-aos="fade-up" data-aos-delay="300">
-
                             <img src="images/working-girl.png" class="img-fluid" alt="working girl">
                           </div>
-
                         </div>
-
                     </div>
                </div>
      </section>
-
-
      <!-- ABOUT -->
      <section class="about section-padding pb-0" id="about">
           <div class="container">
@@ -106,26 +86,19 @@ var_dump($Actualite) ;
 
                     <div class="col-lg-7 mx-auto col-md-10 col-12">
                          <div class="about-info">
-                        
-                               <h2 class="mb-8" >Definition: <br> <strong>Réchauffement Climatique</strong> </h2><br>
-
+                              <h2 class="mb-8" >Definition: <br> <strong>Réchauffement Climatique</strong> </h2><br>
                               <p class="mb-0" data-aos="fade-up">
-                              
                               Le <strong>réchauffement climatique </strong> est un phénomène caractérisé par une élévation de la température de l'atmosphère et des surfaces océaniques .
                               <br><br>
                               Plus précisément, quand on parle de réchauffement climatique, on parle d'augmentations de température liées à l'activité industrielle, notamment l' <a href="blog.html">effet de serre</a>.
                               </p>
                               <br>
-                              
-                              
                          </div>
-
                          <div class="about-image" data-aos="fade-up" data-aos-delay="200">
 <br><br>
                           <img src="images/office.png" width="100%"  height="80%"  class="img-fluid" alt="office">
                         </div>
                     </div>
-
                </div>
           </div>
      </section>
