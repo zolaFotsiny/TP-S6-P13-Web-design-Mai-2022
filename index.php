@@ -117,7 +117,7 @@ https://templatemo.com/tm-538-digital-trend
                          </div>
 
                          <div class="about-image" data-aos="fade-up" data-aos-delay="200">
-                         <br><br>
+<br><br>
                           <img src="images/office.png" class="img-fluid" alt="office">
                         </div>
                     </div>
@@ -128,36 +128,126 @@ https://templatemo.com/tm-538-digital-trend
 
 
      <!-- PROJECT -->
-     
+     <section class="project section-padding" id="project">
+          <div class="container-fluid">
+               <div class="row">
+
+                    <div class="col-lg-12 col-12">
+
+                        <h2 class="mb-5 text-center" data-aos="fade-up">
+                            Please take a look through our
+                            <strong>featured Digital Trends</strong>
+                        </h2>
+
+                         <div class="owl-carousel owl-theme" id="project-slide">
+                              <div class="item project-wrapper" data-aos="fade-up" data-aos-delay="100">
+                                   <img src="images/project/project-image01.jpg" class="img-fluid" alt="project image">
+
+                                   <div class="project-info">
+                                        <small>Marketing</small>
+
+                                        <h3>
+                                             <a href="project-detail.html">
+                                                  <span>Sweet Go Agency</span>
+                                                  <i class="fa fa-angle-right project-icon"></i>
+                                             </a>
+                                        </h3>
+                                   </div>
+                              </div>
+
+                              <div class="item project-wrapper" data-aos="fade-up">
+                                   <img src="images/project/project-image02.jpg" class="img-fluid" alt="project image">
+
+                                   <div class="project-info">
+                                        <small>Website</small>
+
+                                        <h3>
+                                             <a href="project-detail.html">
+                                                  <span>Smart Ladies</span>
+                                                  <i class="fa fa-angle-right project-icon"></i>
+                                             </a>
+                                        </h3>
+                                   </div>
+                              </div>
+
+                              <div class="item project-wrapper" data-aos="fade-up">
+                                   <img src="images/project/project-image03.jpg" class="img-fluid" alt="project image">
+
+                                   <div class="project-info">
+                                        <small>Branding</small>
+
+                                        <h3>
+                                             <a href="project-detail.html">
+                                                  <span>Shoes factory</span>
+                                                  <i class="fa fa-angle-right project-icon"></i>
+                                             </a>
+                                        </h3>
+                                   </div>
+                              </div>
+
+                              <div class="item project-wrapper" data-aos="fade-up">
+                                   <img src="images/project/project-image04.jpg" class="img-fluid" alt="project image">
+
+                                   <div class="project-info">
+                                        <small>Social Media</small>
+
+                                        <h3>
+                                             <a href="project-detail.html">
+                                                  <span>Race Bicycle</span>
+                                                  <i class="fa fa-angle-right project-icon"></i>
+                                             </a>
+                                        </h3>
+                                   </div>
+                              </div>
+
+                              <div class="item project-wrapper" data-aos="fade-up">
+                                   <img src="images/project/project-image05.jpg" class="img-fluid" alt="project image">
+
+                                   <div class="project-info">
+                                        <small>Video</small>
+
+                                        <h3>
+                                             <a href="project-detail.html">
+                                                  <span>Ultimate HealthCare</span>
+                                                  <i class="fa fa-angle-right project-icon"></i>
+                                             </a>
+                                        </h3>
+                                   </div>
+                              </div>
+                         </div>
+                    </div>
+
+               </div>
+          </div>
+     </section>
+
+
      <!-- TESTIMONIAL -->
      <section class="testimonial section-padding">
           <div class="container">
                <div class="row">
 
-               <div class="col-lg-7 mx-auto col-md-10 col-12">
-                         <div class="about-info">
-                        
-                               <h2 class="mb-8" >Definition: <br> <strong>Réchauffement Climatique</strong> </h2><br>
+                    <div class="col-lg-6 col-md-5 col-12">
+                        <div class="contact-image" data-aos="fade-up">
 
-                              <p class="mb-0" data-aos="fade-up">
-                                   
-                              
-                              
-                              
-                              
-                              
-                              
-                              Le <strong>réchauffement climatique </strong> est un phénomène caractérisé par une élévation de la température de l'atmosphère et des surfaces océaniques  <a href="blog.html"></a>. 
-                              <br><br>
-                              Plus précisément, quand on parle de réchauffement climatique, on parle d'augmentations de température liées à l'activité industrielle, notamment l'effet de serre.
-                              </p>
-                              
-                         </div>
-
-                         <div class="about-image" data-aos="fade-up" data-aos-delay="200">
-                         <br><br>
-                         
+                          <img src="images/female-avatar.png" class="img-fluid" alt="website">
                         </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-7 col-12">
+                      <h4 class="my-5 pt-3" data-aos="fade-up" data-aos-delay="100">Client Testimonials</h4>
+
+                      <div class="quote" data-aos="fade-up" data-aos-delay="200"></div>
+
+                      <h2 class="mb-4" data-aos="fade-up" data-aos-delay="300">Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo.</h2>
+
+                      <p data-aos="fade-up" data-aos-delay="400">
+                        <strong>Mary Zoe</strong>
+
+                        <span class="mx-1">/</span>
+
+                        <small>Digital Agency (CEO)</small>
+                      </p>
                     </div>
 
                </div>
