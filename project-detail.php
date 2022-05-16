@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-     <title>Digital Trend HTML Template</title>
+     <title>Digital Trend - Project Detail</title>
 <!--
 
 DIGITAL TREND
@@ -30,7 +30,7 @@ https://templatemo.com/tm-538-digital-trend
 <body>
 
      <!-- MENU BAR -->
-    <nav class="navbar navbar-expand-lg">
+    <nav class="navbar navbar-expand-lg position-relative">
         <div class="container">
             <a class="navbar-brand" href="index.html">
               <i class="fa fa-line-chart"></i>
@@ -45,16 +45,16 @@ https://templatemo.com/tm-538-digital-trend
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="#about" class="nav-link smoothScroll">Studio</a>
+                        <a href="index.html#about" class="nav-link">Studio</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#project" class="nav-link smoothScroll">Our Works</a>
+                        <a href="index.html#project" class="nav-link">Our Works</a>
                     </li>
                     <li class="nav-item">
-                        <a href="blog.php" class="nav-link">Blog</a>
+                        <a href="blog.html" class="nav-link">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a href="contact.php" class="nav-link contact">Contact</a>
+                        <a href="contact.html" class="nav-link contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -62,91 +62,68 @@ https://templatemo.com/tm-538-digital-trend
     </nav>
 
 
-     <!-- HERO -->
-     <section class="hero hero-bg d-flex justify-content-center align-items-center">
-               <div class="container">
-                    <div class="row">
-
-                        <div class="col-lg-6 col-md-10 col-12 d-flex flex-column justify-content-center align-items-center">
-                              <div class="hero-text">
-
-                                   <h1 class="text-white" data-aos="fade-up">We are ready for your digital marketing</h1>
-
-                                   <a href="contact.html" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">Let us discuss together!</a>
-
-                                   <strong class="d-block py-3 pl-5 text-white" data-aos="fade-up" data-aos-delay="200"><i class="fa fa-phone mr-2"></i> +99 080 070 4224</strong>
-                              </div>
-                        </div>
-
-                        <div class="col-lg-6 col-12">
-                          <div class="hero-image" data-aos="fade-up" data-aos-delay="300">
-
-                            <img src="images/working-girl.png" class="img-fluid" alt="working girl">
-                          </div>
-                        </div>
-
-                    </div>
-               </div>
-     </section>
-
-
-     <!-- ABOUT -->
-     <section class="about section-padding pb-0" id="about">
+     <!-- PROJECT DETAIL -->
+     <section class="project-detail section-padding-half">
           <div class="container">
                <div class="row">
 
-                    <div class="col-lg-7 mx-auto col-md-10 col-12">
-                         <div class="about-info">
+                    <div class="col-lg-9 mx-auto col-md-10 col-12 mt-lg-5 text-center" data-aos="fade-up">
 
-                              <h2 class="mb-4" data-aos="fade-up">the best <strong>Digital Marketing agency</strong> in Rio de Janeiro</h2>
+                      <h4>Digital Marketing Agency</h4>
 
-                              <p class="mb-0" data-aos="fade-up">Total 5 HTML pages are included in this template from TemplateMo website. Please check 2 <a href="blog.html">blog</a> pages, <a href="project-detail.html">project</a> page, and <a href="contact.html">contact</a> page. 
-                              <br><br>You are <strong>allowed</strong> to use this template for commercial or non-commercial purpose. You are NOT allowed to redistribute the template ZIP file on template collection websites.</p>
-                         </div>
-
-                         <div class="about-image" data-aos="fade-up" data-aos-delay="200">
-
-                          <img src="images/office.png" class="img-fluid" alt="office">
-                        </div>
+                      <h1>127+ Duis sollicitudin urna id elit pulvinar placerat</h1>
                     </div>
 
                </div>
           </div>
      </section>
 
+     <div class="full-image text-center" data-aos="zoom-in">
+       <img src="images/project/project-detail/interview-process.jpg" class="img-fluid" alt="interview process">
+     </div>
 
-     <!-- PROJECT -->
-     
-
-     <!-- TESTIMONIAL -->
-     <section class="testimonial section-padding">
+     <!-- PROJECT DETAIL -->
+     <section class="project-detail section-padding">
           <div class="container">
                <div class="row">
 
-                    <div class="col-lg-6 col-md-5 col-12">
-                        <div class="contact-image" data-aos="fade-up">
+                  <div class="col-lg-6 col-md-6 col-12 mb-5">
 
-                          <img src="images/female-avatar.png" class="img-fluid" alt="website">
-                        </div>
+                      <img src="images/project/project-detail/personal-website.png" class="img-fluid" alt="personal website" data-aos="fade-up">
                     </div>
 
-                    <div class="col-lg-6 col-md-7 col-12">
-                      <h4 class="my-5 pt-3" data-aos="fade-up" data-aos-delay="100">Client Testimonials</h4>
+                    <div class="col-lg-5 col-md-6 mr-lg-auto mt-lg-5 col-12" data-aos="fade-up" data-aos-delay="200">
 
-                      <div class="quote" data-aos="fade-up" data-aos-delay="200"></div>
+                      <h2>Pellentesque pretium interdum</h2>
 
-                      <h2 class="mb-4" data-aos="fade-up" data-aos-delay="300">Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo.</h2>
+                      <p class="mt-3 mb-4">Nunc sapien nulla, interdum at diam non, aliquam vestibulum leo. Fusce laoreet malesuada ante, consectetur consequat.</p>
 
-                      <p data-aos="fade-up" data-aos-delay="400">
-                        <strong>Mary Zoe</strong>
-
-                        <span class="mx-1">/</span>
-
-                        <small>Digital Agency (CEO)</small>
-                      </p>
+                      <ul class="list-detail">
+                        <li><span>Curabitur commodo a sapien non</span></li>
+                        <li><span>Sed facilisis convallis turpis</span></li>
+                        <li><span>Quisque placerat augue neque</span></li>
+                        <li><span>Nullam fringilla arcu a tortor</span></li>
+                      </ul>
                     </div>
-
                </div>
+
+              <div class="col-lg-12 col-12">
+                <div class="embed-responsive embed-responsive-16by9 my-5 py-5" data-aos="fade-up">
+                    <iframe class="embed-responsive-item" width="800" height="450" src="https://www.youtube.com/embed/myVN26Vx4MU?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+              </div>
+
+              <div class="col-lg-9 mx-auto col-12" data-aos="fade-up">
+                <div class="client-info mt-lg-5 py-lg-5">
+                    <h3>Curabitur egestas mollis tellus sit amet porttitor. Sed leo nisl, posuere at molestie ac, suscipit auctor mauris. Etiam quis metus elementum, tempor risus vel.</h3>
+
+                    <div class="d-flex align-items-center mt-3">
+                      <img src="images/project/project-detail/male-avatar.png" class="img-fluid" alt="male avatar">
+
+                      <p>Angelo Sharp, Creative Director</p>
+                    </div>
+                </div>
+              </div>
           </div>
      </section>
 
@@ -218,7 +195,6 @@ https://templatemo.com/tm-538-digital-trend
      <script src="js/bootstrap.min.js"></script>
      <script src="js/aos.js"></script>
      <script src="js/owl.carousel.min.js"></script>
-     <script src="js/smoothscroll.js"></script>
      <script src="js/custom.js"></script>
 
 </body>

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-     <title>Digital Trend HTML Template</title>
+     <title>Digital Trend Contact</title>
 <!--
 
 DIGITAL TREND
@@ -30,9 +30,9 @@ https://templatemo.com/tm-538-digital-trend
 <body>
 
      <!-- MENU BAR -->
-    <nav class="navbar navbar-expand-lg">
+    <nav class="navbar navbar-expand-lg position-absolute">
         <div class="container">
-            <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand" href="index.html">
               <i class="fa fa-line-chart"></i>
               Digital Trend
             </a>
@@ -45,16 +45,16 @@ https://templatemo.com/tm-538-digital-trend
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="#about" class="nav-link smoothScroll">Studio</a>
+                        <a href="index.html#about" class="nav-link">Studio</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#project" class="nav-link smoothScroll">Our Works</a>
+                        <a href="index.html#project" class="nav-link">Our Works</a>
                     </li>
                     <li class="nav-item">
-                        <a href="blog.php" class="nav-link">Blog</a>
+                        <a href="blog.html" class="nav-link">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a href="contact.php" class="nav-link contact">Contact</a>
+                        <a href="contact.html" class="nav-link active contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -62,93 +62,58 @@ https://templatemo.com/tm-538-digital-trend
     </nav>
 
 
-     <!-- HERO -->
-     <section class="hero hero-bg d-flex justify-content-center align-items-center">
-               <div class="container">
-                    <div class="row">
+     <!-- CONTACT -->
+     <section class="contact section-padding">
+          <div class="container">
+               <div class="row">
 
-                        <div class="col-lg-6 col-md-10 col-12 d-flex flex-column justify-content-center align-items-center">
-                              <div class="hero-text">
+                    <div class="col-lg-6 mx-auto col-md-7 col-12 py-5 mt-5 text-center" data-aos="fade-up">
 
-                                   <h1 class="text-white" data-aos="fade-up">We are ready for your digital marketing</h1>
+                      <h1 class="mb-4">Hey there, Let's <strong>talk</strong> about <strong>creative</strong> projects</h1>
 
-                                   <a href="contact.html" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">Let us discuss together!</a>
+                      <p>or email us at <a href="mailto:hello@company.com">hello@company.com</a></p>
+                      <p>Please follow our <a rel="nofollow" href="https://templatemo.com/contact">contact page</a> to <strong>setup</strong> the contact form.</p>
+                    </div>
 
-                                   <strong class="d-block py-3 pl-5 text-white" data-aos="fade-up" data-aos-delay="200"><i class="fa fa-phone mr-2"></i> +99 080 070 4224</strong>
-                              </div>
-                        </div>
+                    <div class="col-lg-8 mx-auto col-md-10 col-12">
+                    
+                    <!-- Follow https://templatemo.com/contact page to setup your own contact form -->
+                    
+                      <form action="#" method="post" class="contact-form" data-aos="fade-up" data-aos-delay="300" role="form">
+                        <div class="row">
+                          <div class="col-lg-6 col-12">
+                            <input type="text" class="form-control" name="name" placeholder="Name">
+                          </div>
 
-                        <div class="col-lg-6 col-12">
-                          <div class="hero-image" data-aos="fade-up" data-aos-delay="300">
+                          <div class="col-lg-6 col-12">
+                            <input type="email" class="form-control" name="email" placeholder="Email">
+                          </div>
 
-                            <img src="images/working-girl.png" class="img-fluid" alt="working girl">
+                          <div class="col-lg-12 col-12">
+                            <textarea class="form-control" rows="6" name="message" placeholder="Message"></textarea>
+                          </div>
+
+                          <div class="col-lg-5 mx-auto col-7">
+                            <button type="submit" class="form-control" id="submit-button" name="submit">Send Message</button>
                           </div>
                         </div>
 
-                    </div>
-               </div>
-     </section>
-
-
-     <!-- ABOUT -->
-     <section class="about section-padding pb-0" id="about">
-          <div class="container">
-               <div class="row">
-
-                    <div class="col-lg-7 mx-auto col-md-10 col-12">
-                         <div class="about-info">
-
-                              <h2 class="mb-4" data-aos="fade-up">the best <strong>Digital Marketing agency</strong> in Rio de Janeiro</h2>
-
-                              <p class="mb-0" data-aos="fade-up">Total 5 HTML pages are included in this template from TemplateMo website. Please check 2 <a href="blog.html">blog</a> pages, <a href="project-detail.html">project</a> page, and <a href="contact.html">contact</a> page. 
-                              <br><br>You are <strong>allowed</strong> to use this template for commercial or non-commercial purpose. You are NOT allowed to redistribute the template ZIP file on template collection websites.</p>
-                         </div>
-
-                         <div class="about-image" data-aos="fade-up" data-aos-delay="200">
-
-                          <img src="images/office.png" class="img-fluid" alt="office">
-                        </div>
+                      </form>
                     </div>
 
                </div>
           </div>
      </section>
 
-
-     <!-- PROJECT -->
-     
-
-     <!-- TESTIMONIAL -->
-     <section class="testimonial section-padding">
-          <div class="container">
-               <div class="row">
-
-                    <div class="col-lg-6 col-md-5 col-12">
-                        <div class="contact-image" data-aos="fade-up">
-
-                          <img src="images/female-avatar.png" class="img-fluid" alt="website">
-                        </div>
-                    </div>
-
-                    <div class="col-lg-6 col-md-7 col-12">
-                      <h4 class="my-5 pt-3" data-aos="fade-up" data-aos-delay="100">Client Testimonials</h4>
-
-                      <div class="quote" data-aos="fade-up" data-aos-delay="200"></div>
-
-                      <h2 class="mb-4" data-aos="fade-up" data-aos-delay="300">Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo.</h2>
-
-                      <p data-aos="fade-up" data-aos-delay="400">
-                        <strong>Mary Zoe</strong>
-
-                        <span class="mx-1">/</span>
-
-                        <small>Digital Agency (CEO)</small>
-                      </p>
-                    </div>
-
-               </div>
-          </div>
-     </section>
+<!-- How to change your own map point
+	1. Go to Google Maps
+	2. Click on your location point
+	3. Click "Share" and choose "Embed map" tab
+	4. Copy only URL and paste it within the src="" field below
+-->
+     <div class="google-map" data-aos="zoom-in">
+       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11196.961132529668!2d-43.38581128725845!3d-23.011063013218724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bdb695cd967b7%3A0x171cdd035a6a9d84!2sAv.%20L%C3%BAcio%20Costa%20-%20Barra%20da%20Tijuca%2C%20Rio%20de%20Janeiro%20-%20RJ%2C%20Brazil!5e0!3m2!1sen!2sth!4v1568649412152!5m2!1sen!2sth" width="1920" height="600" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+     </div>
 
 
     <footer class="site-footer">
@@ -218,7 +183,6 @@ https://templatemo.com/tm-538-digital-trend
      <script src="js/bootstrap.min.js"></script>
      <script src="js/aos.js"></script>
      <script src="js/owl.carousel.min.js"></script>
-     <script src="js/smoothscroll.js"></script>
      <script src="js/custom.js"></script>
 
 </body>
