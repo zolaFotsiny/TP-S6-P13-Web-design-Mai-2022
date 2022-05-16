@@ -30,27 +30,33 @@ https://templatemo.com/tm-538-digital-trend
 
 </head>
 <body>
+<?php 
+require ("utils/function.php");
+$Actualite=Actualite();
+var_dump($Actualite) ;
+?>
+
 
      <!-- MENU BAR -->
     <nav class="navbar navbar-expand-lg">
         <div class="container">
             <a class="navbar-brand" href="index.html">
-              
               Climat Info
             </a>
-
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
                 aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
+
+
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="http://localhost/TP-S6-P13-Web-design-Mai-2022/rechauffement-climatique-cause" class="nav-link smoothScroll">Studio</a>
+                        <a href="http://localhost/TP-S6-P13-Web-design-Mai-2022/rechauffement-climatique-definition" class="nav-link smoothScroll">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#project" class="nav-link smoothScroll">Actualite</a>
+                        <a href="cause.php" class="nav-link smoothScroll">Cause</a>
                     </li>
                     <li class="nav-item">
                         <a href="blog.html" class="nav-link">Blog</a>
@@ -59,6 +65,7 @@ https://templatemo.com/tm-538-digital-trend
                         <a href="contact.html" class="nav-link contact">Contact</a>
                     </li>
                 </ul>
+                
             </div>
         </div>
     </nav>
@@ -104,9 +111,9 @@ https://templatemo.com/tm-538-digital-trend
 
                               <p class="mb-0" data-aos="fade-up">
                               
-                              Le <strong>réchauffement climatique </strong> est un phénomène caractérisé par une élévation de la température de l'atmosphère et des surfaces océaniques  <a href="blog.html"></a>. 
+                              Le <strong>réchauffement climatique </strong> est un phénomène caractérisé par une élévation de la température de l'atmosphère et des surfaces océaniques .
                               <br><br>
-                              Plus précisément, quand on parle de réchauffement climatique, on parle d'augmentations de température liées à l'activité industrielle, notamment l'effet de serre.
+                              Plus précisément, quand on parle de réchauffement climatique, on parle d'augmentations de température liées à l'activité industrielle, notamment l' <a href="blog.html">effet de serre</a>.
                               </p>
                               <br>
                               
@@ -134,83 +141,28 @@ https://templatemo.com/tm-538-digital-trend
                         <h2 class="mb-5 text-center" data-aos="fade-up">
                         Informations sur le
                             <strong> réchauffement climatique </strong>
-                        </h2>
-
+                        </h2>           
                          <div class="owl-carousel owl-theme" id="project-slide">
-                              <div class="item project-wrapper" data-aos="fade-up" data-aos-delay="100">
-                                   <img src="images/project/project-image01.jpg" class="img-fluid" alt="project image">
+                              <?php for($i=0;$i<count($Actualite);$i++) {?>
+                                   <div class="item project-wrapper" data-aos="fade-up" data-aos-delay="100">
+                                        <img src="images/project/project-image01.jpg" class="img-fluid" alt="project image">
 
-                                   <div class="project-info">
-                                        <small>Marketing</small>
+                                        <div class="project-info">
+                                             <small><?php echo $Actualite [$i]['titre'] ?></small>
 
-                                        <h3>
-                                             <a href="project-detail.html">
-                                                  <span>Sweet Go Agency</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
-                                             </a>
-                                        </h3>
+                                             <h3>
+                                                  <a href="project-detail.html">
+                                                       <span><?php echo $Actualite [$i]['soustitre'] ?></span>
+                                                       <i class="fa fa-angle-right project-icon"></i>
+                                                  </a>
+                                             </h3>
+                                        </div>
                                    </div>
-                              </div>
+                              <?php }?>
 
-                              <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/project-image02.jpg" class="img-fluid" alt="project image">
+                             
 
-                                   <div class="project-info">
-                                        <small>Website</small>
-
-                                        <h3>
-                                             <a href="project-detail.html">
-                                                  <span>Smart Ladies</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
-                                             </a>
-                                        </h3>
-                                   </div>
-                              </div>
-
-                              <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/project-image03.jpg" class="img-fluid" alt="project image">
-
-                                   <div class="project-info">
-                                        <small>Branding</small>
-
-                                        <h3>
-                                             <a href="project-detail.html">
-                                                  <span>Shoes factory</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
-                                             </a>
-                                        </h3>
-                                   </div>
-                              </div>
-
-                              <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/project-image04.jpg" class="img-fluid" alt="project image">
-
-                                   <div class="project-info">
-                                        <small>Social Media</small>
-
-                                        <h3>
-                                             <a href="project-detail.html">
-                                                  <span>Race Bicycle</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
-                                             </a>
-                                        </h3>
-                                   </div>
-                              </div>
-
-                              <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/project-image05.jpg" class="img-fluid" alt="project image">
-
-                                   <div class="project-info">
-                                        <small>Video</small>
-
-                                        <h3>
-                                             <a href="project-detail.html">
-                                                  <span>Ultimate HealthCare</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
-                                             </a>
-                                        </h3>
-                                   </div>
-                              </div>
+                              
                          </div>
                     </div>
 
@@ -220,29 +172,7 @@ https://templatemo.com/tm-538-digital-trend
 
 
      <!-- TESTIMONIAL -->
-     <section class="testimonial section-padding">
-          <div class="container">
-               <div class="row">
-
-                    <div class="col-lg-6 col-md-5 col-12">
-                        <div class="contact-image" data-aos="fade-up">
-
-                          <img src="images/female-avatar.png" width="80%"  height="80%" class="img-fluid" alt="website">
-                        </div>
-                    </div>
-
-                    <div class="col-lg-6 col-md-7 col-12">
-                    <h2 class="mb-8" >Causes: <br> <strong>Réchauffement Climatique</strong> </h2>
-                    <h4 class=" pt-3 " data-aos="fade-up" data-aos-delay="100">Production d’énergie</h4>
-
-                    <p>  La principale <mark style="color: black;">cause du réchauffement climatique</mark> est l'émission de gaz à effet de serre due à l'activité humaine. 
-                     Une grande partie de cela provient de l'utilisation de combustibles fossiles</p>
-                     
-                    </div>
-
-               </div>
-          </div>
-     </section>
+     
 
 
     <footer class="site-footer">
