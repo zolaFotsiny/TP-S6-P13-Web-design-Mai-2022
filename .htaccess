@@ -3,6 +3,12 @@ RewriteEngine on
 RewriteRule ^rechauffement-climatique-cause$  index.php [L]
 RewriteRule ^cause/([-_a-zA-Z0-9]*)-([_a-z0-9]*).php$  cause.php?slug=$1&id=$2 [L]
 
+
+
+Options +FollowSymlinks
+RewriteEngine On
+RewriteRule	^sitemap.xml$ sitemap.xml [L]
+
 <IfModule mod_expires.c>
  ExpiresActive On
  ExpiresDefault "access plus 7200 seconds"
