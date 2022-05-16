@@ -2,6 +2,10 @@ Options +FollowSymlinks
 RewriteEngine on
 RewriteRule ^rechauffement-climatique-definition$ index.php [L]
 
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^rechauffement-climatique-cause$ cause.php [L]
+
 
 
 
