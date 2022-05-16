@@ -6,6 +6,10 @@ Options +FollowSymlinks
 RewriteEngine on
 RewriteRule ^cause$ cause.php [L]
 
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^definition$ index.php [L]
+
 
 
 
