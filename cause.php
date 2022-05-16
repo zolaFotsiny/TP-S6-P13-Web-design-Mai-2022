@@ -1,41 +1,33 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
 
+     <title>Digital Trend - Project Detail</title>
+<!--
 
+DIGITAL TREND
 
+https://templatemo.com/tm-538-digital-trend
 
-     <title>rechauffement climatique |  causes  </title>
+-->
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-     <meta name="description" content=" information du rechauffement climatique ">
-     <meta name="keywords" content="rechauffement climatique">
+     <meta name="description" content="">
+     <meta name="keywords" content="">
      <meta name="author" content="">
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-     <link rel="stylesheet" href="css/bootstrap.min.css">
-     <link rel="stylesheet" href="css/font-awesome.min.css">
-     <link rel="stylesheet" href="css/aos.css">
-     <link rel="stylesheet" href="css/owl.carousel.min.css">
-     <link rel="stylesheet" href="css/owl.theme.default.min.css">
+     <link rel="stylesheet" href="assets/css/bootstrap.min.assets/css">
+     <link rel="stylesheet" href="assets/css/font-awesome.min.assets/css">
+     <link rel="stylesheet" href="assets/css/aos.assets/css">
+     <link rel="stylesheet" href="assets/css/owl.carousel.min.assets/css">
+     <link rel="stylesheet" href="assets/css/owl.theme.default.min.assets/css">
 
-     <!-- MAIN CSS -->
-     <link rel="stylesheet" href="css/templatemo-digital-trend.css">
+     <!-- MAIN assets/css -->
+     <link rel="stylesheet" href="assets/css/templatemo-digital-trend.assets/css">
 
 </head>
-<?php 
-require ("utils/function.php");
-$Cause=Cause();
-var_dump($Cause) ;
-?>
-
-
-
 <body>
-
-
 
      <!-- MENU BAR -->
     <nav class="navbar navbar-expand-lg position-relative">
@@ -102,12 +94,11 @@ var_dump($Cause) ;
 
                 <div class="col-lg-6 col-md-7 col-12">
                 <h2 class="mb-8" >Causes: <br> <strong>Réchauffement Climatique</strong> </h2>
-                <?php for($i=0;$i<count($Cause);$i++) {?>
-                <h4 class=" pt-3 " data-aos="fade-up" data-aos-delay="100"><?php echo $Cause [$i]['titre'] ?></h4>
+                <h4 class=" pt-3 " data-aos="fade-up" data-aos-delay="100">Production d’énergie</h4>
 
-                <p> <?php echo $Cause [$i]['contenu'] ?> </p>
+                <p>  La principale <mark style="color: black;">cause du réchauffement climatique</mark> est l'émission de gaz à effet de serre due à l'activité humaine. 
+                 Une grande partie de cela provient de l'utilisation de combustibles fossiles</p>
                  
-                <?php } ?>
                 </div>
 
            </div>
