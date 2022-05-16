@@ -1,15 +1,13 @@
 <?php
 function dbConnect(){
-    // $host = 'localhost';
-    // $dbname = 'covid2';
-    // $username = 'postgres';
-    // $password = '123456';
-    $host = 'ec2-54-160-96-70.compute-1.amazonaws.com';
-    $dbname = 'd48i0l6f9jfqjm';
-    $username = 'qxkqclsglyjxca';
-    $password = 'dce6f6c5063ce6d5eb0aebb0bf164ba81ffb4845e0556192ce24d85df1a6b9d3';
+    
+  $host = 'ec2-3-229-11-55.compute-1.amazonaws.com';
+	$username = 'pgfyhyzblsjjfl';
+	$password ='154d754df395f27f5c88b85ea641ecb102c05c704abc5aca57d7c9d75073caa4';
+	$database = 'draaddkfo4k4q';
+	
  
-  $dsn = "pgsql:host=$host;port=5432;dbname=$dbname;user=$username;password=$password";
+  $dsn = "pgsql:host=$host;port=5432;dbname=$database;user=$username;password=$password";
    
   try{
      $conn = new PDO($dsn);

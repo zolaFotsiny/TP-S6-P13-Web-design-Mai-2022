@@ -1,8 +1,14 @@
+
+<?php   
+    require'Util/Function.php';
+    $actualite = Definition();
+    // var_dump($actualite);
+?>   
 <!DOCTYPE html>
 <html lang="en">
 <head>
 
-     <title>Digital Trend HTML Template</title>
+     <title>Rechauffement climatique | Information </title>
 <!--
 
 DIGITAL TREND
@@ -13,7 +19,7 @@ https://templatemo.com/tm-538-digital-trend
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
      <meta name="description" content="">
-     <meta name="keywords" content="">
+     <meta name="keywords" content="rechauffement climatique">
      <meta name="author" content="">
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -70,12 +76,11 @@ https://templatemo.com/tm-538-digital-trend
                         <div class="col-lg-6 col-md-10 col-12 d-flex flex-column justify-content-center align-items-center">
                               <div class="hero-text">
 
-                                   <h1 class="text-white" data-aos="fade-up">We are ready for your digital marketing</h1>
-
-                                   <a href="contact.html" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">Let us discuss together!</a>
-
-                                   <strong class="d-block py-3 pl-5 text-white" data-aos="fade-up" data-aos-delay="200"><i class="fa fa-phone mr-2"></i> +99 080 070 4224</strong>
+                                   <h1 class="text-white" data-aos="fade-up">Réchauffement Climatique</h1>
+                                   <strong class="d-block  text-white" data-aos="fade-up" data-aos-delay="200"> Information liée au réchauffement climatique</strong>
+                                   <a href="contact.html" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">En savoir plus</a>
                               </div>
+
                         </div>
 
                         <div class="col-lg-6 col-12">
@@ -97,8 +102,8 @@ https://templatemo.com/tm-538-digital-trend
 
                     <div class="col-lg-7 mx-auto col-md-10 col-12">
                          <div class="about-info">
-
-                              <h2 class="mb-4" data-aos="fade-up">the best <strong>Digital Marketing agency</strong> in Rio de Janeiro</h2>
+                        
+                              <h2 class="mb-6" data-aos="fade-up">Définition<strong> Qu'est-ce que le réchauffement climatique</strong> </h2>
 
                               <p class="mb-0" data-aos="fade-up">Total 5 HTML pages are included in this template from TemplateMo website. Please check 2 <a href="blog.html">blog</a> pages, <a href="project-detail.html">project</a> page, and <a href="contact.html">contact</a> page. 
                               <br><br>You are <strong>allowed</strong> to use this template for commercial or non-commercial purpose. You are NOT allowed to redistribute the template ZIP file on template collection websites.</p>
