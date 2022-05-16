@@ -101,7 +101,12 @@ https://templatemo.com/tm-538-digital-trend
                 <p>  La principale <mark style="color: black;">cause du réchauffement climatique</mark> est l'émission de gaz à effet de serre due à l'activité humaine. 
                  Une grande partie de cela provient de l'utilisation de combustibles fossiles</p>
                  
-                </div>
+                <br>
+                <h4 class=" pt-3 " data-aos="fade-up" data-aos-delay="100">Production industrielle </h4>
+                <p>
+                   L’industrie lourde a contribué aux émissions mondiales de CO2 liées à l’énergie à hauteur de 36 % environ en 2016 .
+                </p>
+                 </div>
 
            </div>
       </div>
