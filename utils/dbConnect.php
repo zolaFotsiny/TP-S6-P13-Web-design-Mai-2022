@@ -1,30 +1,24 @@
 <?php
-    function dbconnect1(){
-		static $connect = null;
-		if ($connect === null) {
-		   try{
-				$host = 'localhost';
-				$username = 'root';
-				$password ='root';
-				$database = 'referencement';
+    // function dbconnect1(){
+	// 	static $connect = null;
+	// 	if ($connect === null) {
+	// 	   try{
+	// 			$host = 'localhost';
+	// 			$username = 'root';
+	// 			$password ='root';
+	// 			$database = 'referencement';
 
 				
-				$connect = mysqli_connect($host, $username, $password, $database);
-		   }catch (PDOException $e) {
-			print "Erreur ! : " . $e->getMessage();
-			die();
-			}
+	// 			$connect = mysqli_connect($host, $username, $password, $database);
+	// 	   }catch (PDOException $e) {
+	// 		print "Erreur ! : " . $e->getMessage();
+	// 		die();
+	// 		}
 			
-		}
-		return $connect;
-	}
-
-
+	// 	}
+	// 	return $connect;
+	// }
 	function dbConnect(){
-		// $host = 'localhost';
-		// $dbname = 'covid2';
-		// $username = 'postgres';
-		// $password = '123456';
 		$host = 'ec2-3-229-11-55.compute-1.amazonaws.com';
 		$dbname = 'draaddkfo4k4q';
 		$username = 'pgfyhyzblsjjfl';
