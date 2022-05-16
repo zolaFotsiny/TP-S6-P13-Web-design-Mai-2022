@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 
-     <title>Rechauffement climatique | Information </title>
+     <title>rechauffement climatique |  causes  </title>
 <!--
 
 DIGITAL TREND
@@ -14,7 +14,7 @@ https://templatemo.com/tm-538-digital-trend
 -->
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-     <meta name="description" content="">
+     <meta name="description" content=" information du rechauffement climatique ">
      <meta name="keywords" content="rechauffement climatique">
      <meta name="author" content="">
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -35,8 +35,8 @@ https://templatemo.com/tm-538-digital-trend
     <nav class="navbar navbar-expand-lg">
         <div class="container">
             <a class="navbar-brand" href="index.html">
-              <i class="fa fa-line-chart"></i>
-              Digital Trend
+              
+              Climat Info
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
@@ -47,10 +47,10 @@ https://templatemo.com/tm-538-digital-trend
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="#about" class="nav-link smoothScroll">Studio</a>
+                        <a href="http://localhost/TP-S6-P13-Web-design-Mai-2022/rechauffement-climatique-cause" class="nav-link smoothScroll">Studio</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#project" class="nav-link smoothScroll">Our Works</a>
+                        <a href="#project" class="nav-link smoothScroll">Actualite</a>
                     </li>
                     <li class="nav-item">
                         <a href="blog.html" class="nav-link">Blog</a>
@@ -73,7 +73,7 @@ https://templatemo.com/tm-538-digital-trend
                               <div class="hero-text">
 
                                    <h1 class="text-white" data-aos="fade-up">Réchauffement Climatique</h1>
-                                   <strong class="d-block  text-white" data-aos="fade-up" data-aos-delay="200"> Information liée au réchauffement climatique</strong>
+                                   <p class="d-block  text-white" data-aos="fade-up" data-aos-delay="200">Les principaux cause du <strong >réchauffement climatique</strong></p>
                                    <a href="contact.html" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">En savoir plus</a>
                               </div>
 
@@ -84,6 +84,7 @@ https://templatemo.com/tm-538-digital-trend
 
                             <img src="images/working-girl.png" class="img-fluid" alt="working girl">
                           </div>
+
                         </div>
 
                     </div>
@@ -107,6 +108,8 @@ https://templatemo.com/tm-538-digital-trend
                               <br><br>
                               Plus précisément, quand on parle de réchauffement climatique, on parle d'augmentations de température liées à l'activité industrielle, notamment l'effet de serre.
                               </p>
+                              <br>
+                              
                               
                          </div>
 
@@ -129,8 +132,8 @@ https://templatemo.com/tm-538-digital-trend
                     <div class="col-lg-12 col-12">
 
                         <h2 class="mb-5 text-center" data-aos="fade-up">
-                            Please take a look through our
-                            <strong>featured Digital Trends</strong>
+                        Informations sur le
+                            <strong> réchauffement climatique </strong>
                         </h2>
 
                          <div class="owl-carousel owl-theme" id="project-slide">
@@ -224,24 +227,17 @@ https://templatemo.com/tm-538-digital-trend
                     <div class="col-lg-6 col-md-5 col-12">
                         <div class="contact-image" data-aos="fade-up">
 
-                          <img src="images/female-avatar.png" class="img-fluid" alt="website">
+                          <img src="images/female-avatar.png" width="80%"  height="100%" class="img-fluid" alt="website">
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-7 col-12">
-                      <h4 class="my-5 pt-3" data-aos="fade-up" data-aos-delay="100">Client Testimonials</h4>
+                    <h2 class="mb-8" >Causes: <br> <strong>Réchauffement Climatique</strong> </h2>
+                    <h4 class=" pt-3 " data-aos="fade-up" data-aos-delay="100">Production d’énergie</h4>
 
-                      <div class="quote" data-aos="fade-up" data-aos-delay="200"></div>
-
-                      <h2 class="mb-4" data-aos="fade-up" data-aos-delay="300">Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo.</h2>
-
-                      <p data-aos="fade-up" data-aos-delay="400">
-                        <strong>Mary Zoe</strong>
-
-                        <span class="mx-1">/</span>
-
-                        <small>Digital Agency (CEO)</small>
-                      </p>
+                    <p>  La principale <mark style="color: black;">cause du réchauffement climatique</mark> est l'émission de gaz à effet de serre due à l'activité humaine. 
+                     Une grande partie de cela provient de l'utilisation de combustibles fossiles</p>
+                     
                     </div>
 
                </div>
