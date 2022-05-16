@@ -1,8 +1,10 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 
-     <title>Digital Trend - Project Detail</title>
+     <title>rechauffement climatique |  causes  </title>
 <!--
 
 DIGITAL TREND
@@ -12,19 +14,19 @@ https://templatemo.com/tm-538-digital-trend
 -->
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-     <meta name="description" content="">
-     <meta name="keywords" content="">
+     <meta name="description" content=" information du rechauffement climatique ">
+     <meta name="keywords" content="rechauffement climatique">
      <meta name="author" content="">
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-     <link rel="stylesheet" href="assets/css/bootstrap.min.assets/css">
-     <link rel="stylesheet" href="assets/css/font-awesome.min.assets/css">
-     <link rel="stylesheet" href="assets/css/aos.assets/css">
-     <link rel="stylesheet" href="assets/css/owl.carousel.min.assets/css">
-     <link rel="stylesheet" href="assets/css/owl.theme.default.min.assets/css">
+     <link rel="stylesheet" href="css/bootstrap.min.css">
+     <link rel="stylesheet" href="css/font-awesome.min.css">
+     <link rel="stylesheet" href="css/aos.css">
+     <link rel="stylesheet" href="css/owl.carousel.min.css">
+     <link rel="stylesheet" href="css/owl.theme.default.min.css">
 
-     <!-- MAIN assets/css -->
-     <link rel="stylesheet" href="assets/css/templatemo-digital-trend.assets/css">
+     <!-- MAIN CSS -->
+     <link rel="stylesheet" href="css/templatemo-digital-trend.css">
 
 </head>
 <body>
