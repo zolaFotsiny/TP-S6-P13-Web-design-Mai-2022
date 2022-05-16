@@ -102,12 +102,6 @@ https://templatemo.com/tm-538-digital-trend
                                <h2 class="mb-8" >Definition: <br> <strong>Réchauffement Climatique</strong> </h2><br>
 
                               <p class="mb-0" data-aos="fade-up">
-                                   
-                              
-                              
-                              
-                              
-                              
                               
                               Le <strong>réchauffement climatique </strong> est un phénomène caractérisé par une élévation de la température de l'atmosphère et des surfaces océaniques  <a href="blog.html"></a>. 
                               <br><br>
