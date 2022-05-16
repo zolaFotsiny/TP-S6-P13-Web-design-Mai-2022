@@ -2,7 +2,7 @@
 <?php   
     require'Util/Function.php';
     $actualite = Definition();
-    // var_dump($actualite);
+    var_dump($actualite);
 ?>   
 <!DOCTYPE html>
 <html lang="en">
