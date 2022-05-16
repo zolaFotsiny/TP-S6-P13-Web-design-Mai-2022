@@ -1,10 +1,10 @@
 Options +FollowSymlinks
 RewriteEngine on
-RewriteRule ^rechauffement-climatique-definition$ index.php [L]
+RewriteRule ^$rechauffement-climatique-cause.herokuapp.com [L]
 
 Options +FollowSymlinks
 RewriteEngine on
-RewriteRule ^rechauffement-climatique-cause$ cause.php [L]
+RewriteRule ^cause$ cause.php [L]
 
 
 
