@@ -33,6 +33,7 @@ https://templatemo.com/tm-538-digital-trend
 
 
      <!-- HERO -->
+     <center>
      <section class="hero hero-bg d-flex justify-content-center align-items-center">
                <div class="container">
                     <div class="row">
@@ -46,7 +47,7 @@ https://templatemo.com/tm-538-digital-trend
                         </div>
                         <div class="col-lg-6 col-12">
                           <div class="hero-image" data-aos="fade-up" data-aos-delay="300">
-                            <img src="images/working-girl.png" class="img-fluid" alt="working girl">
+                            <img src="images/rechauffement climatique.png" width="80%" height="80%" class="img-fluid" alt="rechauffement climatique">
                           </div>
                         </div>
                     </div>
@@ -94,14 +95,14 @@ https://templatemo.com/tm-538-digital-trend
                                        
                                         <div class="item project-wrapper" data-aos="fade-up" data-aos-delay="100">
                                              <div>
-                                                  <center>
+                                                  
                                                   <h3>
                                                        <a href="project-detail.html">
                                                             <span><?php echo $Actualite [$i]['titre'] ?></span>
                                                        </a>
                                                   </h3>
                                                   <small><?php echo $Actualite [$i]['soustitre'] ?></small> 
-                                                  </center>
+                                                  
                                              </div>
                                         </div>
                                    </div>
@@ -111,8 +112,10 @@ https://templatemo.com/tm-538-digital-trend
 
                </div>
           </div>
-     </section>
 
+     </section>
+     
+     </center>                            
 
      <!-- TESTIMONIAL -->
      
