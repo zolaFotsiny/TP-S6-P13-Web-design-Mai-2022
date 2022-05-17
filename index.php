@@ -18,7 +18,7 @@ https://templatemo.com/tm-538-digital-trend
      <link rel="stylesheet" href="css/font-awesome.min.css">
      <link rel="stylesheet" href="css/aos.css">
      <link rel="stylesheet" href="css/owl.carousel.min.css">
-     <!-- <link rel="stylesheet" href="css/owl.theme.default.min.css"> -->
+     <link rel="stylesheet" href="css/owl.theme.default.min.css"> 
      <!-- MAIN CSS -->
      <link rel="stylesheet" href="css/templatemo-digital-trend.css">
 </head>
