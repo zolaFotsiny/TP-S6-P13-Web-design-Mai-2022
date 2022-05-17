@@ -39,9 +39,9 @@ https://templatemo.com/tm-538-digital-trend
                     <div class="row">
 
                         <div class="col-lg-6 col-md-10 col-12 d-flex flex-column justify-content-center align-items-center">
-                              <div class="hero-text">
+                              <div >
                                    <h1 class="text-white" data-aos="fade-up">Réchauffement Climatique</h1>
-                                   <p class="d-block  text-white" data-aos="fade-up" data-aos-delay="200">Les principaux cause du <strong >réchauffement climatique</strong></p>
+                                   <p class="d-block  text-white" data-aos="fade-up" data-aos-delay="200">Les principaux cause du réchauffement climatique</p>
                                    <a href="contact.html" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">En savoir plus</a>
                               </div>
                         </div>
