@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 
-     <title>rechauffement climatique |  causes  </title>
+<title>rechauffement climatique | definitions - causes -solution- informations </title>
 <!--
 
 DIGITAL TREND
@@ -61,7 +61,7 @@ https://templatemo.com/tm-538-digital-trend
                 <div class="col-lg-6 col-md-5 col-12">
                     <div class="contact-image" data-aos="fade-up">
 
-                      <img src="images/female-avatar.png" width="80%"  height="80%" class="img-fluid" alt="website">
+                      <img src="images/female-avatar.png" width=400 height=400  class="img-fluid" alt="website">
                     </div>
                 </div>
 

@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-     <title>rechauffement climatique - definitions - informations </title>
+     <title>rechauffement climatique | definitions - causes -solution- informations </title>
 <!--
 DIGITAL TREND
 https://templatemo.com/tm-538-digital-trend
@@ -47,7 +47,7 @@ https://templatemo.com/tm-538-digital-trend
                         </div>
                         <div class="col-lg-6 col-12">
                           <div class="hero-image" data-aos="fade-up" data-aos-delay="300">
-                            <img src="images/rechauffement climatique.png" width="80%" height="80%" class="img-fluid" alt="rechauffement climatique" >
+                            <img src="images/rechauffement climatique.png" width=450 height=450 class="img-fluid" alt="rechauffement climatique" >
                           </div>
                         </div>
                     </div>
@@ -70,7 +70,7 @@ https://templatemo.com/tm-538-digital-trend
                          </div>
                          <div class="about-image" data-aos="fade-up" data-aos-delay="200">
 <br><br>
-                          <img src="images/office.png" width="100%"  height="80%"  class="img-fluid" alt="office">
+                          <img src="images/office.png" width=500 height=600   class="img-fluid" alt="office">
                         </div>
                     </div>
                </div>
