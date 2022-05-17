@@ -22,20 +22,33 @@ Note avant optimisation :83
 	1,7 s
 	Cumulative Layout Shift
 	0,001
-Note apres optimisation :96
+
+	
+Note apres optimisation :98
+	
 	
 	First Contentful Paint
-	0,6 s
+	0,5 s
 	Time to Interactive
-	1,0 s
+	1,1 s
 	Speed Index
-	1,5 s
-	Total Blocking Time	
-	0 ms
+	1,4 s
+	Total Blocking Time
+	20 ms
 	Largest Contentful Paint
-	1,2 s
+	0,9 s
 	Cumulative Layout Shift
 	0,001
+	
+			
+	
+Les choses faites :
+	compression text /css/js avec reduction des css inutilie
+	compression image 
+	Suppression css inutilise 
+	utilisation cash 
+	optimisation balise 
+
 	
 				
 
