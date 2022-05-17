@@ -4,11 +4,7 @@
 
 <title>rechauffement climatique | definitions - causes -solution- informations </title>
 
-DIGITAL TREND
 
-https://templatemo.com/tm-538-digital-trend
-
--->
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
      <meta name="description" content="">
@@ -20,7 +16,7 @@ https://templatemo.com/tm-538-digital-trend
      <link rel="stylesheet" href="css/font-awesome.min.css">
      <link rel="stylesheet" href="css/aos.css">
      <link rel="stylesheet" href="css/owl.carousel.min.css">
-     <link rel="stylesheet" href="css/owl.theme.default.min.css">
+     <!-- <link rel="stylesheet" href="css/owl.theme.default.min.css"> -->
 
      <!-- MAIN CSS -->
      <link rel="stylesheet" href="css/templatemo-digital-trend.css">
