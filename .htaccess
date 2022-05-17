@@ -4,11 +4,15 @@ RewriteRule ^$rechauffement-climatique-cause.herokuapp.com [L]
 
 Options +FollowSymlinks
 RewriteEngine on
-RewriteRule ^cause$ cause.php [L]
+RewriteRule ^causes$ cause.php [L]
 
 Options +FollowSymlinks
 RewriteEngine on
-RewriteRule ^definition$ index.php [L]
+RewriteRule ^definitions$ index.php [L]
+
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^solutions$ solution.php [L]
 
 
 

@@ -8,10 +8,13 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="definition" class="nav-link smoothScroll">Home</a>
+                        <a href="definitions" class="nav-link smoothScroll">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a href="cause" class="nav-link smoothScroll">Cause</a>
+                        <a href="causes" class="nav-link smoothScroll">Causes</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="solutions" class="nav-link smoothScroll">Solutions</a>
                     </li>
                     <li class="nav-item">
                         <a href="https://back-rechauffement-climatique.herokuapp.com/" class="nav-link contact">Admin</a>
