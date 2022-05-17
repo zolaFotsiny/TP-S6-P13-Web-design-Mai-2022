@@ -42,7 +42,7 @@ https://templatemo.com/tm-538-digital-trend
                               <div >
                                    <h1 class="text-white" data-aos="fade-up">Réchauffement Climatique</h1>
                                    <p class="d-block  text-white" data-aos="fade-up" data-aos-delay="200">Définitions et Informations du réchauffement climatique</p>
-                                   <a href="contact.html" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">En savoir plus</a>
+                                   <a href=" #information" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">En savoir plus</a>
                               </div>
                         </div>
                         <div class="col-lg-6 col-12">
@@ -96,9 +96,9 @@ https://templatemo.com/tm-538-digital-trend
                                              <div>
                                                   
                                                   <h3>
-                                                       <a href="project-detail.html">
+                                                      
                                                             <span><?php echo $Actualite [$i]['titre'] ?></span>
-                                                       </a>
+                                                      
                                                   </h3>
                                                   <small><?php echo $Actualite [$i]['soustitre'] ?></small> 
                                                   
