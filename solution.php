@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
 
-     <title>rechauffement climatique - solutions</title>
-<!--
+<title>rechauffement climatique | definitions - causes -solution- informations </title>
 
 DIGITAL TREND
 
