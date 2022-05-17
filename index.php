@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-     <title>rechauffement climatique |  causes  </title>
+     <title>rechauffement climatique - definitions et informations </title>
 <!--
 DIGITAL TREND
 https://templatemo.com/tm-538-digital-trend
@@ -41,7 +41,7 @@ https://templatemo.com/tm-538-digital-trend
                         <div class="col-lg-6 col-md-10 col-12 d-flex flex-column justify-content-center align-items-center">
                               <div >
                                    <h1 class="text-white" data-aos="fade-up">Réchauffement Climatique</h1>
-                                   <p class="d-block  text-white" data-aos="fade-up" data-aos-delay="200">Les principaux cause du réchauffement climatique</p>
+                                   <p class="d-block  text-white" data-aos="fade-up" data-aos-delay="200">Définitions et Informations du réchauffement climatique</p>
                                    <a href="contact.html" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">En savoir plus</a>
                               </div>
                         </div>
@@ -60,7 +60,7 @@ https://templatemo.com/tm-538-digital-trend
 
                     <div class="col-lg-7 mx-auto col-md-10 col-12">
                          <div class="about-info">
-                              <h2 class="mb-8" >Definition: <br> <strong>Réchauffement Climatique</strong> </h2><br>
+                              <h2 class="mb-8" >Definitions: <br> <strong>Réchauffement Climatique</strong> </h2><br>
                               <p class="mb-0" data-aos="fade-up">
                               Le <strong>réchauffement climatique </strong> est un phénomène caractérisé par une élévation de la température de l'atmosphère et des surfaces océaniques .
                               <br><br>
@@ -86,8 +86,7 @@ https://templatemo.com/tm-538-digital-trend
                     <div class="col-lg-12 col-12">
 
                         <h2 class="mb-5 text-center" data-aos="fade-up">
-                        Informations sur le
-                            <strong> réchauffement climatique </strong>
+                        Informations sur le <strong> réchauffement climatique </strong>
                         </h2>           
                          <div class="owl-carousel owl-theme" id="project-slide">
                               <?php for($i=0;$i<count($Actualite);$i++) {?>

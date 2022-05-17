@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 
-     <title>rechauffement climatique |  causes  </title>
+     <title>rechauffement climatique -causes  </title>
 <!--
 
 DIGITAL TREND
@@ -43,9 +43,6 @@ https://templatemo.com/tm-538-digital-trend
                <div class="row">
 
                     <div class="col-lg-9 mx-auto col-md-10 col-12 mt-lg-5 text-center" data-aos="fade-up">
-
-                      <h4>Causes</h4>
-
                       <h1>Les principaux cause du <strong >réchauffement climatique</strong></h1>
                     </div>
 

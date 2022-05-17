@@ -14,10 +14,7 @@
                         <a href="cause" class="nav-link smoothScroll">Cause</a>
                     </li>
                     <li class="nav-item">
-                        <a href="blog.html" class="nav-link">Blog</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="contact.html" class="nav-link contact">Contact</a>
+                        <a href="https://back-rechauffement-climatique.herokuapp.com/" class="nav-link contact">Admin</a>
                     </li>
                 </ul>
                 
