@@ -37,3 +37,12 @@ RewriteRule	^sitemap.xml$ sitemap.xml [L]
  ExpiresByType application/x-shockwave-flash "access plus 1 years"
 </IfModule>
 
+
+<filesMatch « .(jpg|css|png|gif|js)$ »>
+Header set Cache-Control « max-age=2628000, public »
+</filesMatch>
+
+
+
+
+
